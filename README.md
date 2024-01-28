@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything cloud and devops
 - 📫 How to reach me: contact@diogomic.me
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
