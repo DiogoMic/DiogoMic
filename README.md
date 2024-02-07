@@ -11,5 +11,6 @@ Skills: AWS | Docker | Python | Bash | Vagrant | Kubernetes | CI/CD | IAC
 - 💬 Ask me about Anything Cloud and Devops 
 - 📫 How to reach me: contact@diogomic.me 
 
+https://roadmap.sh/r?id=65c32bdf0c54812283a9485b
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/okoli-michael-891b46153/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Diogo.Mic/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@MicDiogo)  
