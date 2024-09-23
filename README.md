@@ -6,7 +6,7 @@ Highly skilled and versatile Cloud Engineer and Systems Administrator with a com
 
 Skills: AWS | Docker | Python | Bash | Vagrant | Kubernetes | CI/CD | IAC | Power Platform
 
-- 🌱 I’m currently learning AWS Devops Tools and Services 
+- 🌱 I’m currently learning Power Platforms 
 - 👯 I’m looking to collaborate on Cloud and DevOps Projects 
 - 💬 Ask me about Anything Cloud and Devops 
 - 📫 How to reach me: contact@diogomic.me 
