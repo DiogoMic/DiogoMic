@@ -10,9 +10,3 @@ Skills: AWS | Azure | Docker | Python | Bash | Vagrant | Kubernetes | CI/CD | IA
 - 👯 I’m looking to collaborate on Cloud and DevOps Projects 
 - 💬 Ask me about Anything Cloud and Devops 
 - 📫 How to reach me: contact@diogomic.me 
-
-https://roadmap.sh/r?id=65c32bdf0c54812283a9485b
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height=''>](https://www.linkedin.com/in/okoli-michael-891b46153/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height=''>](https://www.instagram.com/Diogo.Mic/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height=''>](https://medium.com/@MicDiogo)  
