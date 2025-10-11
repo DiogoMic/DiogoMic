@@ -3,10 +3,10 @@
 ![Cloud Engineer with DevOps Practice](https://github.com/DiogoMic/DiogoMic/blob/main/assets/git%20image.jpg)
 
 Cloud Engineer with 4 years of hands-on experience designing and automating cloud-first environments using
-Google Workspace, Microsoft Power Platform, and AWS. Known for transitioning manual, paper-heavy organizations
-into agile, secure, and cost-effective digital ecosystems. Led company-wide migrations, established robust access
-control protocols, and built scalable, no-code solutions that cut operational costs and improved collaboration across
-departments. Proficient at balancing technical implementation with business needs, translating non-technical
+AWS. Known for transitioning manual, paper-heavy organizations into agile, secure, and cost-effective digital ecosystems. 
+Led company-wide migrations, established robust accesscontrol protocols, and built scalable, no-code solutions that cut 
+operational costs and improved collaboration across departments. 
+Proficient at balancing technical implementation with business needs, translating non-technical
 requirements into secure, efficient cloud architectures. Holds multiple cloud certifications (AWS, Azure, Microsoft
 Power Platform) and excels in dynamic, fast-paced environments that demand precision, innovation, and continuous
 learning.
