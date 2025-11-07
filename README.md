@@ -19,7 +19,7 @@ Observability (CloudWatch, Grafana, DataDog) • Google Workspace • Microsoft 
 Automate) • SharePoint • Microsoft Office Suite (Excel, Word, PowerPoint) • PowerShell • Bash • AI Builder •
 Microsoft Teams • Slack • Outlook
 
-- 🌱 I’m currently learning Building RAG Agents using Azure AI Foundry and AWS Bedrock 
+- 🌱 I’m currently learning Big Data Engineering
 - 👯 I’m looking to collaborate on Cloud and DevOps Projects 
 - 💬 Ask me about Anything Cloud and Devops 
 - 📫 How to reach me: contact@diogomic.me 
